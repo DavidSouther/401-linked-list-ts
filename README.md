@@ -25,3 +25,9 @@
 - `() => void` is a function with no arguments, and returns nothing.
   <!-- - `'hello'`' is the JavaScript string `'hello'` and no other string. -->
   <!-- - `'hello'|'goodbye'` is either the JavaScript string `'hello'` or the string `'goodbye'`, and no other strings. -->
+  
+  ## Instructions
+  
+  * Download a .zip of this repo into a new folder in your `data-structures-and-algorithms` repo
+  * Make a commit on a new branch with just this code
+  * Do the project, make commits as needed, and open a pull request against the DS&A main branch.
