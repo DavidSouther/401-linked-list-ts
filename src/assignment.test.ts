@@ -30,7 +30,8 @@ describe("LinkedList", () => {
     list.insert(new Hobbit("Sam"));
     list.insert(new Hobbit("Frodo"));
 
-    expect(list.toString()).toEqual(
+    const str = list.toString();
+    expect(str).toEqual(
       "{ YM Frodo } -> { YM Sam } -> { YM Merry } -> { YM Pippin } -> NULL"
     );
   });
